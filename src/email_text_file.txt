@@ -1,0 +1,13 @@
+This file contains
+many lists of email
+
+teste@gmail.com
+
+one more
+teste2@live.com
+
+teste3@hotmail.com
+teste4@yahoo.com
+
+end of list
+
